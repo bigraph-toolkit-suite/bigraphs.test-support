@@ -13,6 +13,7 @@
     <groupId>org.bigraphs.testing</groupId>
     <artifactId>bigraph-test-support</artifactId>
     <version>${version}</version>
+    <scope>test</scope>
 </dependency>
 ```
 
